@@ -1,3 +1,5 @@
 
-sfdx-project.json
+# sfdx-project.json
 /config/
+/.sfdx/
+/.vscode/
